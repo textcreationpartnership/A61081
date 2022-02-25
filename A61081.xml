@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons why we should admit the King to a personall treaty in Parliament, and not treat by commissioners</title>
+            <author>Spelman, Clement, 1598-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61081</idno>
+            <idno type="STC">Wing S4916</idno>
+            <idno type="STC">ESTC R39100</idno>
+            <idno type="EEBO-CITATION">18212869</idno>
+            <idno type="OCLC">ocm 18212869</idno>
+            <idno type="VID">107168</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61081)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107168)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1131:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons why we should admit the King to a personall treaty in Parliament, and not treat by commissioners</title>
+                  <author>Spelman, Clement, 1598-1679.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Spelman by Wing and NUC pre-1956 imprints.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Sovereign (1625-1649 : Charles I)</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107168:1" rendition="simple:additions"/>
+            <p>REASONS why we ſhould admit the King to a perſonall Treaty In PARLIAMENT, and not Treat by Commiſsioners.</p>
+            <p>Printed in the Yeere 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:107168:2"/>
+            <pb n="3" facs="tcp:107168:2"/>
+            <head>Reaſons why wee ſhould admit the King to a Perſonall Treaty in Parliament, and not to treate by Commiſsioners.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt, in reſpect of the Writt, wherby the Lords are ſummo<g ref="char:EOLhyphen"/>ned, the Knights, &amp; Burgeſſes e<g ref="char:EOLhyphen"/>lected, &amp; ſent to Parliament, in which Writ the King declares, that <hi>by the advice of his Counſell for certaine difficult and argent affaires concerning himſelfe, his Realme of England, and the Engliſh Church, hee hath appoynted to hold a Parliament at Weſtminſter,</hi> 3. <hi>No<g ref="char:EOLhyphen"/>vember following, and there to have conference and trea<g ref="char:EOLhyphen"/>ty with his Barons,</hi> and therefore <hi>enjoynes every Baron upon his Allegiance to be Perſonally there to handle and give advice upon the ſaid urgent affaires, &amp;c.</hi> wherein conſider the things to be handled and adviſed on.
+<pb n="4" facs="tcp:107168:3"/>Firſt, touching himſelfe, the ſafety of his Perſon; then of the Kingdome, the peace and government: Laſtly of the Church, the ſettlement of Religion, and <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Clergy; ſurely theſe are <hi>inter ardua Regni,</hi> and for which he called the Palia<g ref="char:EOLhyphen"/>ment to have conference with his Barons about them, and to advice with them, and not to reſolve without them: Let us remember that the King doth not paſſe any Bill touching the moſt triviall matter againſt his meaneſt Subject, before he hath had (if he deſired it) perſonall conference and advice from his Barons, and ſhall wee in theſe matters, <hi>touching his owne Per<g ref="char:EOLhyphen"/>ſon, the peace and welfare of his whole Kingdome, the ſettlement of Religion and maintainance of Gods Mini<g ref="char:EOLhyphen"/>ſters,</hi> ſhall wee in theſe difficult and urgent affaires, (not to uſe a worſe word) preſſe him to conſent to, and ſettle theſe weighty buſineſſes <hi>(Rege inconſulto)</hi> with<g ref="char:EOLhyphen"/>out conference with his Parliament, only with a few Commiſſioners a way not conſonant to the Writ, nor warranted by preſidents.</p>
+            <p>The King may under his great Seale make Com<g ref="char:EOLhyphen"/>miſſioners to give in Parliament his conſent to any Bill. But what Law gives the two Houſes power to make Commiſſioners to take his Majeſties conſent out of Parliament, if none, then what can be the ſucceſſe of Commiſſionary treaties, but burthenſome and de<g ref="char:EOLhyphen"/>ſtructive delayes?</p>
+            <p>By Law the King cannot be debarred in Parlia<g ref="char:EOLhyphen"/>ment the conference and advice of any one Baron, and ſhall wee in Parliament at once deny him the con<g ref="char:EOLhyphen"/>ference and advice of his whole Baronage, and that in matters of the higheſt nature? Let us remember
+<pb n="5" facs="tcp:107168:3"/>that wee Knights and Burgeſſes are but repreſentative perſons. Atturnies for our ſeverall Counties and Bur<g ref="char:EOLhyphen"/>rowes, and cannot exceede the power celegated to us by the perſons repreſented, which by the writ and re<g ref="char:EOLhyphen"/>turne of our Election appeares to be to act and con<g ref="char:EOLhyphen"/>ſent to ſuch things as ſhall there <hi>(in Parlia<g ref="char:EOLhyphen"/>ment)</hi> happen to be ordained, &amp;c. but gives us no po<g ref="char:EOLhyphen"/>wer to act or conſent to things or dained or concluded by Commiſſioners at <hi>Uxbridge</hi> or elſewhere out of Parliament, wee muſt therefore with ſafety purſue our power according to the uſage of former Parlia<g ref="char:EOLhyphen"/>ments for innovations, and new preſidents, as this may be dangerous to us, hurtfull to our Poſterity.</p>
+            <p>Secondly, let the King treate in Perſon, that wee may avoyd the ſcandall that otherwiſe will be thro<g ref="char:EOLhyphen"/>wen upon us out of our owne Votes. Petitions, Re<g ref="char:EOLhyphen"/>plications, Declarations, &amp;c. as in our Vote 16. Mar. 1641. <hi>Reſolved upon the Queſtion, that thoſe perſons that adviſe the King to abſent himſelfe from his Par<g ref="char:EOLhyphen"/>liament are enemies to the peace of the Kingdome, and Cauſers of the Rebellion in Ireland;</hi> for ſurely it thoſe that adviſe his abſence from Parlia<g ref="char:EOLhyphen"/>ment be enemies to the peace of the Kingdome, they that force his abſence from Parliament, when his Majeſty offers, and hath ſo often deſired to come to his Parliament, are (in a higher degree) enemies to the peace of the Kingdome, eſpecially when his pre<g ref="char:EOLhyphen"/>ſence in Parliament, might as is hoped, give an end to our taxes, loanes, billettings, &amp;c.</p>
+            <p>Next in our Petition of the 16 of July. 1642. <hi>We beſeech his Majeſty to draw neerer to his Parliament:</hi> His Majeſty in his anſwere offers to come to his Par<g ref="char:EOLhyphen"/>liament to any place but Weſtminſter, where, in re<g ref="char:EOLhyphen"/>ſpect
+<pb n="6" facs="tcp:107168:4"/>of the Tumults (and thoſe unpuniſhed) his Per<g ref="char:EOLhyphen"/>ſon could not be ſafe, which was the cauſe his Maje<g ref="char:EOLhyphen"/>ſty departed thence.</p>
+            <p>
+               <hi>In our Replication,</hi> 26 of Jul. 1642 to that anſwer we continue our deſires, To have his Majeſty come to his Parliament to the uſuall place (Weſtminſter) as the place of ſafety for his Royall Perſon, conſidering the aſſurance the Parliament hath of the Loyalty and Fi<g ref="char:EOLhyphen"/>dellity of the City of London to his Majeſty, and the care the Parliament will have to prevent dangers, his Majeſty may juſtly apprehend, beſides the mani<g ref="char:EOLhyphen"/>fold conveniencies to be had there beyond other parts of the Kingdome: Now when his Majeſty offers to come as wee deſired to the uſuall place, as the place of ſafety for his Royall Perſon (lately endangered) to the place where the Parliament (becauſe nigh) may the better prevent al dangers apprehended by his Majeſty, to the place where manyfold conveniencies are to be had beyond other Parts of the Kingdome.</p>
+            <p>Wee will not admit him to come to his Parlia<g ref="char:EOLhyphen"/>ment, but will treate with him by Commiſſioners, a new way, at a place not uſuall (it may be) not ſafe for His Royall Perſon, perhaps at a place where the Parliament cannot (in reſpect of the diſtance) prevent the dangers juſtly apprehended by his Majeſty, and at a place ſhort of the manyfold conveniencies to be had at Weſtminſter: and will not all the world then beleeve that our ends and intents are other then our Petitions and Declarations pretend?</p>
+            <pb n="7" facs="tcp:107168:4"/>
+            <p>Let the King treate in Perſon even to avoyde the miſchiefe threatened by Commiſſionary treaties, which (by miſerable experience) are branded as in<g ref="char:EOLhyphen"/>ſuccesfull and tedious, and thereby continuing the Army unpayd, increaſing our taxes, lones, and in<g ref="char:EOLhyphen"/>ſupportable payments, expelling trade and commerce both for the importing forraine, and exporting home Commodities, decaying our ſhipping the ſtrength of our Nation, inviting the attendants of Civill Warre, Dearth and Famine, to perfect the ruine of our made miſerable Nation: for while the Houſes are inſtructing their Commiſſioners, their Commiſſioners certify<g ref="char:EOLhyphen"/>ing the Houſes, the Houſes in a perſonall treaty might have concluded with the King, payd and disbanded the Army, eaſed our taxes, freed us of billetting Sol<g ref="char:EOLhyphen"/>diers, and ſo meete in Diameter what wee ſeeme to hunt in circumference.</p>
+            <p>Laſtly, it is conſiderable that all treaties, all conceſ<g ref="char:EOLhyphen"/>ſions and grants made by the King while at diſtance from the Parliament, and under a kinde of reſtraint (being tyed to conſent, and ſigne Bills before admit<g ref="char:EOLhyphen"/>ted to come to Parliament) are in themſelves voyd and null in Law, as Acts obtained by force and du<g ref="char:EOLhyphen"/>rance, and then the Subject relying on ſuch Acts for oblivion, &amp;c. may be hanged with his pardon a<g ref="char:EOLhyphen"/>bout his necke, for the ſworne Judge muſt judge ac<g ref="char:EOLhyphen"/>cording to Law, not the intents of the King and Houſes. But all Acts, Grants, and Conceſſions made by the King in open and free Parliament without any
+<pb n="8" facs="tcp:107168:5"/>conditions or reſpects of former treaties are in them<g ref="char:EOLhyphen"/>ſelves moſt honourable, moſt juſt, and moſt firme, moſt valide in Law and conſcience, which will be had by a Perſonall Treaty, and doubtleſſe render a wiſhed ſafety to the Subject, a bleſſed and laſting peace to the Kingdome, which God in his mercy ſend us.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
